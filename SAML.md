@@ -6,7 +6,7 @@ Distribution used: Ubuntu Server 24.
 1. User Management
 2. Security
 3. Firewall Config
-4. Backup/Cron Job
+4. Backup/Systemd timer
 
 ### Install SAMBA
 sudo apt install samba -y
